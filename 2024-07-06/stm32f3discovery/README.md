@@ -4,6 +4,8 @@ This directory contains an output stream from the
 [`sunsided/stm32f3disco-rust`](https://github.com/sunsided/stm32f3disco-rust) project
 using [`serial-sensors-proto`](https://crates.io/crates/serial-sensors-proto) version `0.4.0`.
 
+Please see the project's [Wiki](https://github.com/sunsided/serial-sensors-test-data/wiki/2024%E2%80%9007%E2%80%9006-STM32F3-Discovery) for visual information.
+
 ## CSV files
 
 The CSV files contain the actual data. The important parts are:
